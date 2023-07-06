@@ -6,4 +6,4 @@ Demonstração de algumas abordagens para serem utilizadas no controle de fluxo 
 - Baixar o .Net Core SDK e o Visual Studio / Code mais recentes.
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
